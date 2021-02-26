@@ -1,0 +1,36 @@
+Pauta
+Microfone mute
+Camera aberta (se possivel)
+
+1 - Apresentação
+2 - O que é uma StartUp
+3 - O Time - cada um se apresenta max 3 min.
+4 - Resolver o nome
+5 - definir as ferramentas  de produção
+	Reuniões
+		Jtsi
+		Meet
+		Zoom
+
+	Tarefas / Entregas
+		Trello
+		Notion
+
+	Metas 
+		Excel
+
+	Repositórios
+		Drible
+		GitHub
+		GitProject
+		Behance
+		Pinterest
+		Youtube
+	
+	Ferramentas
+		Figma
+		Figma Resoucers
+
+
+
+

@@ -4,6 +4,7 @@ html {
 
 body {
   margin-top: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 nav {
@@ -45,6 +46,7 @@ nav img {
 
 nav a:hover {
   color: #fffb03;
+  cursor: pointer;
   justify-content: space-between;
 }
 
@@ -338,6 +340,7 @@ nav div {
 .botaoAzul:hover {
   background-color: #2d46b6;
   color: white;
+  cursor: pointer;
 }
 
 .logosParceiros {
@@ -448,6 +451,7 @@ a {
 img:hover {
   -webkit-filter: none;
   filter: none;
+  cursor: pointer;
 }
 
 footer {

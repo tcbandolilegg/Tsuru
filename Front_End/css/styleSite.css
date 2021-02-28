@@ -274,6 +274,7 @@ nav div {
   font-size: 50px;
   font-weight: bolder;
   color: #2d46b6;
+  text-align: center;
 }
 .topHome h1 {
   font-size: 80px;
@@ -364,27 +365,29 @@ nav div {
   /* topo | direita | inferior | esquerda */
   margin: 20px auto 40px auto;
 }
-.funcionalidades {
+.features {
   display: flex;
-  align-content: space-around;
-  justify-content: space-around;
+  align-content: space-between;
+  justify-content: space-between;
   align-items: center;
   padding: 10px;
   flex-wrap: wrap;
   text-align: center;
+  max-width: 1200px;
+  margin: auto;
 }
 
-.funcionalidades img {
+.features img {
   margin-top: 40px;
 }
 
-.funcionalidades p {
+.features p {
   justify-content: center;
   align-self: center;
   padding: 15px;
 }
 
-.funcionalidades div {
+.features div {
   width: 280px;
   height: 280px;
   margin-bottom: 50px;
@@ -451,7 +454,7 @@ a {
 img:hover {
   -webkit-filter: none;
   filter: none;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 footer {
@@ -490,4 +493,18 @@ footer {
   align-items: initial;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+#armazenar h3 {
+  font-size: x-large;
+  text-align: center;
+}
+
+.featuresSingle:hover {
+  transform: rotateY(180deg);
+}
+.featuresSingle {
+  transition: transform 1s;
+  transform-style: preserve-3d;
+  position: relative;
 }

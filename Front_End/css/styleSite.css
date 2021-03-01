@@ -451,10 +451,16 @@ a {
   filter: gray;
 }
 
+.logosAceleradoras img:hover,
+.logosParceiros img:hover,
+.redesSociais img:hover,
+.redesSociaisRodape img:hover {
+  cursor: pointer;
+}
+
 img:hover {
   -webkit-filter: none;
   filter: none;
-  /* cursor: pointer; */
 }
 
 footer {
@@ -501,6 +507,7 @@ footer {
 }
 
 .featuresSingle:hover {
+  cursor: pointer;
   transform: rotateY(180deg);
 }
 .featuresSingle {

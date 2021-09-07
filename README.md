@@ -1,2 +1,2 @@
-"# TSURU_Mobile First"
-"## Tsuru" 
+# TSURU_Mobile First
+## Tsuru
